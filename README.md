@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @dronzerray;
-- 👀 I’m interested in innovative coding;
-- 🌱 I’m currently learning coding of differnt languages;
-- 💞️ I’m looking to collaborate on all the sectors;
+- 👋 Hi, I’m ram ;
+- 👀 I’m interested in innovative coding ideas and logics ;
+- 🌱 I’m currently learning coding of differnt languages also i am a student at lovelu professional university ;
+- 💞️ I cam look after all types of aspects ;
 - 📫 How to reach me {
-- u can contact me on 8688373305
+- u can contact me on 
 - email id : lostray@gmail.com
 }
 <!---
